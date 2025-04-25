@@ -1,0 +1,30 @@
+.section-one {
+    background: url('https://press.et/herald/wp-content/uploads/2024/11/Untitled-9.jpg') no-repeat center center;
+    background-size: cover;
+    height: 100vh; /* Full viewport height */
+    color: black; /* Text color */
+    opacity: 0.9; /* Adjust opacity as needed */
+}
+.bg-orange{
+    background-color: rgb(255, 140, 0);
+    opacity: 1; /* Adjust opacity as needed */
+    color: black; /* Text color */
+}
+ .nav-link {
+ color: black; /* black text color */
+ font-weight: bold;
+}
+.hero h1{
+    font-size: 50px;
+}
+.section-two{
+    background-color: rgb(229, 198, 154);
+    opacity: 1; /* Adjust opacity as needed */
+    color: black; /* Text color */
+}
+.Vision-Section{
+     height: 100vh;
+      background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+     url('https://globelynews.com/wp-content/uploads/2023/02/Addis-Ababa-light-rail-china-belt-and-road-initiative.jpg') no-repeat center center;
+      background-size: cover;
+}
